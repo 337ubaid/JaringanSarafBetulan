@@ -1,4 +1,4 @@
-# Notes
+# Deskripsi
 
 Repository ini untuk project akhir Jaringan Saraf Tiruan 
 
