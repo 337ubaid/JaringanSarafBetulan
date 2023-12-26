@@ -2,6 +2,8 @@
 
 Repository ini untuk project akhir Jaringan Saraf Tiruan 
 
+Judul : Deteksi Gagal Jantung dengan Metode Learning Vector Quantization dan Early Stopping
+
 Kelas : TIF - G
 
 Kelompok : Jaringan Saraf Betulan
